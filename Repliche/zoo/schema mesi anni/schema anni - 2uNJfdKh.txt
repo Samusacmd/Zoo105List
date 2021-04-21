@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Repliche 2012",
+        "urlList": "https://pastebin.com/raw/M7sYrVjQ"
+        "imageUrl": ""
+    },
+    {
+        "name": "Repliche 2013",
+        "urlList": "https://pastebin.com/raw/KX05DuMz"
+        "imageUrl": ""
+    },
+    {
+        "name": "Repliche 2014",
+        "url": "https://pastebin.com/raw/RpB0GbRg"
+        "imageUrl": ""
+    },
+	{
+        "name": "Repliche 2015",
+        "url": "https://pastebin.com/raw/eHHFFvCd"
+        "imageUrl": ""
+    },
+	{
+        "name": "Repliche 2016",
+        "url": "https://pastebin.com/raw/MpfKXJLM"
+        "imageUrl": ""
+    },
+	{
+        "name": "Repliche 2017",
+        "url": "https://pastebin.com/raw/Sf1g200n"
+        "imageUrl": ""
+    },
+	{
+        "name": "Repliche 2018",
+        "url": "https://pastebin.com/raw/rNjFUDy8"
+        "imageUrl": ""
+    },
+	{
+        "name": "Repliche 2019",
+        "url": "https://pastebin.com/raw/4tBD5wcK"
+        "imageUrl": ""
+    },
+	{
+        "name": "Repliche 2020",
+        "url": "https://pastebin.com/raw/imTNXYKg"
+        "imageUrl": ""
+    },
+	{
+        "name": "Repliche 2021",
+        "url": "https://pastebin.com/raw/NkjK6s7g"
+        "imageUrl": ""
+    }
+]
