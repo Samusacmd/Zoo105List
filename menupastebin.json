@@ -7,7 +7,7 @@
     {
         "name": "Musica e Video",
         "urlList": "https://pastebin.com/raw/G7BjRTJF",
-        "imageUrl": "https://yt3.ggpht.com/ytc/AAUvwngM5QR3cWrrRM9bdN5hg_KjTRMPATgsQjF3iCCU0A=s900-c-k-c0x00ffffff-no-rj"
+        "imageUrl": "https://i.imgur.com/ix1PjUlm.jpg"
     },
     {
         "name": "Scenette ed altro",
@@ -23,5 +23,10 @@
         "name": "Criminal Zoo",
         "urlList": "https://bit.ly/2WyFVI4",
         "imageUrl": "https://i.imgur.com/tV24VC5.jpg"
+    },
+    {
+        "name": "Vecchio Pugliese",
+        "urlList": "https://pastebin.com/raw/AyG6P4Pt",
+        "imageUrl": "https://i.imgur.com/unaBOzhm.jpg"
     }
 ]
