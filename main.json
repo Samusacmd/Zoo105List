@@ -7,7 +7,8 @@
     {
         "name": "Radio varie provvisorio",
         "urlList": "https://pastebin.com/raw/9p5paGMy",
-        "imageUrl": "https://i.imgur.com/SqW4o9Rm.png"
+        "imageUrl": "https://i.imgur.com/SqW4o9Rm.png",
+        "onlyOneElement": true
     },
     {
         "name": "Zoo live & replica serale",
