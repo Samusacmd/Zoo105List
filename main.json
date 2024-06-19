@@ -64,7 +64,7 @@
         "name": "Jingle",
         "urlList": "https://pastebin.com/raw/7n14SD5g",
         "imageUrl": "https://i.imgur.com/liTBiij.jpg"
-    },    
+    } /*,    
     {
         "name": "L' edicola",
         "urlList": "https://pastebin.com/raw/Jduz7zyC",
@@ -90,4 +90,5 @@
         "urlList": "http://bit.ly/3Eq1T25",
         "imageUrl": "https://i.imgur.com/5jqipBhm.jpg"
     }
+    */
 ]
