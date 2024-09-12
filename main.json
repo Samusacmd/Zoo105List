@@ -1,19 +1,19 @@
 [
     {
-        "name": "Repliche aggiornate ogni fine mese",
+        "name": "Repliche Audio",
         "urlList": "https://pastebin.com/raw/ZyhME6iy",
         "imageUrl": "https://i.imgur.com/fc6Hsngm.jpg"
+    }, 
+    {
+        "name": "Repiche Video",
+        "urlList": "https://pastebin.com/raw/Qdxk1Hzr",
+        "imageUrl": "https://i.imgur.com/EkF7e82.jpg"
     },
     {
-        "name": "Radio",
+        "name": "Radio Mediaset",
         "urlList": "https://pastebin.com/raw/9p5paGMy",
         "imageUrl": "https://i.imgur.com/SqW4o9Rm.png",
         "onlyOneElement": true
-    },
-    {
-        "name": "Zoo live & replica serale",
-        "urlList": "https://pastebin.com/raw/Qdxk1Hzr",
-        "imageUrl": "https://i.imgur.com/EkF7e82.jpg"
     },
     {
         "name": "Fight Back Mazzoliverso",
@@ -21,7 +21,7 @@
         "imageUrl": "https://i.imgur.com/Q0EqGxnm.jpg"
     },
     {
-        "name": "Video",
+        "name": "Video vari",
         "urlList": "https://pastebin.com/raw/sUcQid3M",
         "imageUrl": "https://i.imgur.com/APAQ1lb.jpg"
     },
