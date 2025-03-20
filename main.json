@@ -55,7 +55,7 @@
         "imageUrl": "https://i.imgur.com/4bPAMDb.jpeg"
     },
     {
-        "name": "Sabato Sega: Mazzoli ospite su Radio Deejay (Tnx Giauz)",
+        "name": "Sabato Sega ospite Mazzoli",
         "urlList": "https://pastebin.com/raw/5feQL6nT",
         "imageUrl": "https://i.imgur.com/7l1DCEa.jpeg"
     },
@@ -70,7 +70,7 @@
         "imageUrl": "https://i.imgur.com/6KXo2K8.jpeg"
     },    
     {
-        "name": "L' edicola",
+        "name": "L'edicola",
         "urlList": "https://pastebin.com/raw/Jduz7zyC",
         "imageUrl": "https://i.imgur.com/w6QdJDl.jpeg"
     },
@@ -88,10 +88,5 @@
         "name": "Scenette",
         "urlList": "https://pastebin.com/raw/T1JXdtiX",
         "imageUrl": "https://i.imgur.com/bMmqUdR.jpeg"
-    },
-    {
-        "name": "Extra musica",
-        "urlList": "https://pastebin.com/raw/69tMWkpe",
-        "imageUrl": "https://i.imgur.com/5jqipBh.jpeg"
     }
 ]
